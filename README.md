@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christopher</h1> 
 <h3 align="center">Researcher and Developer - Secure Multiparty Computation (SMC)</h3>
 
-- 🔭 I’m currently working on **an end-to-end SMC library in C++**
+- 🔭 I’m currently working on **an End-to-End SMC library in C++**
 
 - 🌱 I’m currently learning **AWS, C/C++**
 
@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **SMC projects**
 
-- <a href="https://linkedin.com/in/christopher-harth-kitzerow" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://de.linkedin.com/in/christopher-harth-kitzerow" height="15" width="20" /></a> Connect with me on <a href="https://linkedin.com/in/christopher-harth-kitzerow">**LinkedIn**</a>
+- <a href="https://de.linkedin.com/in/christopher-harth-kitzerow/" target="blank"><img align="center" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png"  alt="https://de.linkedin.com/in/christopher-harth-kitzerow" height="20" width="20" /></a> Connect with me on <a href="https://linkedin.com/in/https://de.linkedin.com/in/christopher-harth-kitzerow">**LinkedIn**</a>
 
 
 
